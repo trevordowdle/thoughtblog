@@ -10,6 +10,7 @@ tags: [books, test]
 Let me introduce you to someone I'll name <span style="color:#ff6c4f">Anti</span>, I am jumping into the middle of a conversation we had.  Anti is undecidely against the Church and is working to discredit the Church and shame it's members.
 
 <hr />
+#### Bring ‘em Young
 
 <p style="color:#ff6c4f">
 If I have told lies, please point out to me what I’ve said that is a lie. Based on what I’ve posted, I do know what beliefs are consistent with Mormon doctrine. I spent decades of my life as a believer until I 
@@ -37,13 +38,15 @@ you should examine why the history of your church and your beliefs makes you unc
 <hr>
 
 <div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
-    <span style="color:#ff6c4f">The BYU Law School is named after J. Reuben Clark who said “If we have the truth, it cannot be harmed by investigation. If we have not the truth, it ought to be harmed.</span>
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">The BYU Law School is named after J. Reuben Clark who said “If we have the truth, it cannot be harmed by investigation. If we have not the truth, it ought to be harmed.</p>
 </div>
 
 <p style="color:#4f8aff">Well said.</p>
 
 <div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
-    <span style="color:#ff6c4f">I once again look forward to any defender of the Mormon faith to point out anything that I have posted here as a lie.</span>
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">I once again look forward to any defender of the Mormon faith to point out anything that I have posted here as a lie.</p>
 </div>
 
 <p style="color:#4f8aff">I've already pointed a misleading statement. And as far as I know, one of the definitions of a lie is to create a false and misleading impression.</p>
@@ -51,6 +54,7 @@ you should examine why the history of your church and your beliefs makes you unc
 <p style="color:#4f8aff">lets examine another claim. But instead of me taking time to refute an unsubstantiated claim, I think the onus should be on you.</p>
 
 <div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>Bring ‘em Young wrote:</strong>
     <span style="color:#ff6c4f">BYU researchers have actually recently discovered that Joseph Smith’s “translation” of the Bible was actually just a plagiarism of a popular bible commentary that Adam Clarke published in 1831.</span>
 </div>
 
@@ -142,12 +146,13 @@ Erroneous assumptions such as these, and or believing that others have similar a
 The burden of proof is still on you, show me evidence of plagiarism.
 </p>
 
+<hr>
 
 ### Conversation with another anti
 
 <div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>JS in the prison of hell wrote:</strong>
 <p style="color:#ff6c4f">
-JS in the prison of hell wrote:
 Joseph Smith said that the moon was inhabited by people six feet tall who dressed like Quakers and lived to be 1,000 years old (Source: Journal of Oliver B. Huntington, a devout Mormon contemporary of Joseph Smith; copy at Utah State Historical Society, Vol. 2, p. 166).
 </p>
 </div>
@@ -179,6 +184,8 @@ So some of the best and most respected astronomers and scientists of the time af
 Care to engage in discussions relating to any other sources on the topic?
 </p>
 
+<hr>
+
 <p style="color:#ff6c4f">
 But those astronomers weren't claiming to be the "prophet of God." Basically what you are saying is that since there were other con men running around claiming that they could find buried treasure, then Smith's lies about finding buried golden plates can be forgiven. Since there were scientists running around claiming that there were Quakers living on the moon, then Smith's lies about getting "revelations from God" about men on the moon can be forgiven. You are saying that either God is a liar or Smith was a liar.
 </p>
@@ -195,7 +202,332 @@ Since Smith lied about his entirely false translation of the Book of Abraham, th
 Smith was nothing more than a proven liar and tawdry con man. Every single one of his "revelations" have been proven false.
 </p>
 
+<hr>
 
 
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>JS in the prison of hell wrote:</strong>
+<p style="color:#ff6c4f">
+But those astronomers weren't claiming to be the "prophet of God." Basically what you are saying is ...then Smith's lies about getting "revelations from God" about men on the moon can be forgiven. You are saying that either God is a liar or Smith was a liar.
+</p>
+</div>
+
+<p style="color:#4f8aff">
+I have said nothing of the sort, only that there is no evidence of "men on the moon" being linked to "revelations from God" within the church. All we have is one man's assertion of what another man told him Joseph Smith said. Lest you assume such a wild idea could only have come from within the church, I demonstrated how it was actually a popular and scientifically held belief at the time.
+</p>
+
+<p style="color:#4f8aff">
+Your first sentence indicates to me that you are operating under the assumption that a "Prophet of God" should be infallible and always operate under direct inspiration from God and never be subject to human err. However the Bible, the Book of Mormon, and examples from Joseph Smith's life show that this is not the case.
+</p>
+
+<p style="color:#4f8aff">
+Here is just one example from the early days of the Church, Jesus's first apostles:
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<p>godcannotbecontained.blogspot.com:</p>
+<p>
+In his letter to the churches of Galatia, Paul reveals that he angrily confronted Peter over his hypocritical conduct toward Gentile Christians when in the presence of Jewish Christians (Galatians 2:11-14). Apparently he had to remind Peter (himself an apostle, author of Scripture and acknowledged leader within the Church - some say the first Pope) that Christians are reconciled to God through faith in Jesus Christ, not by obeying the Mosaic Law (verses 15-16). I don't know about you, but it certainly sounds to me like Peter was in error regarding this matter of the faith (at least, that seems to be what Paul is saying)!
+</p>
+</div>
+
+<p style="color:#4f8aff">
+See more examples in the new testament:
+</p>
+
+[http://godcannotbecontained.blogspot.com/2014/09/did-apostles-always-do-what-god-told.html](http://godcannotbecontained.blogspot.com/2014/09/did-apostles-always-do-what-god-told.html)
+
+
+<p style="color:#4f8aff">
+If scripture so readily demonstrates that Peter and other apostles called by Christ in his day had struggles in the early days of the church, didn't always have constant intervention and revelation from God to correct them, but instead were subject to human fallacies and err. Why would you assume that early leaders and apostles in Joseph Smith's day should be exempt from the same?
+</p>
+
+<p style="color:#4f8aff">
+Alright the BOM, this is very cut and dry there is clarity here:
+</p>
+
+<p style="color:#4f8aff">
+We know from Joseph Smiths direct account that he was led by God to find and translate the scripture records making up the BOM. There's no question as to how the Book of Mormon came to pass, Joseph Smith spells it out for us so there is no need to make assumptions. As someone seeking to discredit the church, It makes a lot of sense to focus on disproving the Book of Mormon, for a detractor it's easy to see and believe that the Book of Mormon is Joseph's biggest con. After all, that's a whole lot of material that he would either had to of made up himself, and or had to of stolen/used content from somewhere else. And since Joseph affirms that the entire record came by the power of God if you can discredit that assertion you can discredit the man the Church.
+</p>
+
+<p style="color:#4f8aff">
+I think the BOM is a great place to focus, I don't think there can be any ambiguity here.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>JS in the prison of hell wrote:</strong>
+<p style="color:#ff6c4f">
+You are quick to dismiss the witnesses to Smith's outrageous claims, but wholeheartedly believe the witnesses affidavits in the preface to the BOM, several of whom came clean and admitted that they were lying.
+</p>
+</div>
+
+
+<p style="color:#4f8aff">
+Please share with me your proof that several of these witnesses came clean and admitted they were lying (if any).
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<p style="color:#ff6c4f">
+JS in the prison of hell wrote:
+Smith was also proven to be a liar when he claimed to translate the Book of Abraham
+</p>
+</div>
+
+<p style="color:#4f8aff">
+Share your proof please.
+</p>
+
+<p style="color:#4f8aff">
+Proof is in the pudding so they say.
+</p>
+
+<hr>
+#### Utah, fraud center of the world
+<p style="color:#ff6c4f">
+https://listverse.com/2012/10/05/top-10-embarrassments-of-the-mormon-religion/
+</p>
+<hr>
+
+<p style="color:#4f8aff">
+Top 10 embarrassments of the mormon religion.
+</p>
+
+<p style="color:#4f8aff">
+Oh man, unfortunately #8 is already out of date:
+</p>
+
+<p style="color:#4f8aff">
+Embarrassment: No archaeological evidence
+</p>
+
+<p style="color:#4f8aff">
+Archeologists are just discovering how much they don't know about ancient America.
+As many of their prior findings and assumptions are being proven wrong with the use of new lidar Technology and the findings and application of the technology is still in it's infancy.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<p>National Geographic News:</p>
+<p>Surprising Insights</p>
+
+<p>
+“LiDAR is revolutionizing archaeology the way the Hubble Space Telescope revolutionized astronomy,” said Francisco Estrada-Belli, a Tulane University archaeologist and National Geographic Explorer. “We’ll need 100 years to go through all [the data] and really understand what we’re seeing.”
+</p>
+
+<p>
+Already, though, the survey has yielded surprising insights into settlement patterns, inter-urban connectivity, and militarization in the Maya Lowlands. At its peak in the Maya classic period (approximately A.D. 250–900), the civilization covered an area about twice the size of medieval England, but it was far more densely populated.
+</p>
+
+<p>
+“Most people had been comfortable with population estimates of around 5 million,” said Estrada-Belli, who directs a multi-disciplinary archaeological project at Holmul, Guatemala. “With this new data it’s no longer unreasonable to think that there were 10 to 15 million people there—including many living in low-lying, swampy areas that many of us had thought uninhabitable.”
+</p>
+
+<p>
+Virtually all the Mayan cities were connected by causeways wide enough to suggest that they were heavily trafficked and used for trade and other forms of regional interaction. These highways were elevated to allow easy passage even during rainy seasons. In a part of the world where there is usually too much or too little precipitation, the flow of water was meticulously planned and controlled via canals, dikes, and reservoirs.
+</p>
+
+<p>
+Among the most surprising findings was the ubiquity of defensive walls, ramparts, terraces, and fortresses. “Warfare wasn’t only happening toward the end of the civilization,” said Garrison. “It was large-scale and systematic, and it endured over many years.”
+</p>
+</div>
+
+<p style="color:#4f8aff">
+These new insights, already show at least one civilization in the America's that existed in Book of Mormon times with a sophistication and population scale more consistent with the Book of Mormon narrative than previously believed.
+</p>
+
+<hr>
+#### Bring ‘em Young
+<p style="color:#ff6c4f">
+How did the gold plates get from Guatemala to a hill in New York? Did Moroni ride a horse to get to New York? Oh wait, horses hadn’t arrived in the American continent yet. They did, however, exist in the Book of Mormon.
+</p>
+<hr>
+<p style="color:#4f8aff">
+I don’t know that the plates went from Guatemala to New York. You said that.
+</p>
+<p style="color:#4f8aff">
+I’m saying that those relying on archeological evidence as a crux against the validity of the Book of Mormon should think again. Everything archeologists thought they knew about the Mayan society has just been turned on it’s head. Archeology efforts and conclusions of the past are now in question. LiDAR technology is a game changer.
+</p>
+<hr>
+<p style="color:#ff6c4f">
+Actually what you said was, “These new insights, already show at least one civilization in the America’s that existed in Book of Mormon times with a sophistication and population scale more consistent with the Book of Mormon narrative than previously believed.”
+</p>
+<p style="color:#ff6c4f">
+Either Moroni found a way to carry the heavy plates of gold from Guatemala to New York, or the Mayan civilization in Guatemala that you are referring to had nothing to do with the civilization described in Book of Mormon.
+</p>
+<p style="color:#ff6c4f">
+He could have also rode an elephant and pulled a chariot. Those things exist in the Book of Mormon. Although they didn’t actually exist on the American continent during Book of Mormon times.
+</p>
+<p style="color:#ff6c4f">
+You’ll also have to find a creative way to explain away DNA evidence that shows natives of the American continent migrated from Asia and not from Jerusalem as the Book of Mormon teaches.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">Actually what you said was, <strong style="color:#4f8aff">“These new insights, already show at least one civilization in the America’s that existed in Book of Mormon times with a sophistication and population scale more consistent with the Book of Mormon narrative than previously believed.”</strong></p>
+</div>
+
+<p style="color:#4f8aff">
+Yes that's what I said, evidence that advanced societies existed here during the time period of the Book of Mormon. Whether this particular society is the same society I did not say, and I don't know.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">He could have also rode an elephant and pulled a chariot. Those things exist in the Book of Mormon. Although they didn’t actually exist on the American continent during Book of Mormon times.</p>
+</div>
+
+<p style="color:#4f8aff">
+Did you process what I said about being careful not to rest your claims on ever evolving and changing archaeological evidence? That includes things like horses and DNA.
+</p>
+
+<p style="color:#4f8aff">
+You must not be informed, science is a fast moving and constantly evolving. And there is evidence of horses existing in Pre Columbian america.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<p>Yes world, there were horses in Native culture before the settlers came:</p>
+<p>https://newsmaven.io/indiancountrytoday/news/yes-world-there-were-horses-in-native-culture-before-the-settlers-came-JGqPrqLmZk-3ka-IBqNWiQ/</p>
+
+<p>
+The original theory accepted by the Western World was that there were no horses in the Americas prior to Columbus’ arrival in 1492. The Western World concluded that all horses of Native American peoples were, therefore, descendants of horses brought from overseas.
+</p>
+
+<p>
+<strong>This theory was forced to change, however, after paleontology pioneer Joseph Leidy discovered horse skeletons embedded in American soil in the 1830s.</strong> They were dated to be the oldest of any found in the world. According to Collin’s dissertation, the American scientific community was outraged and questioned his findings. Ultimately, they were forced to accept the evidence he provided.
+</p>
+
+<p>
+At this point, <strong>the narrative shifted to say that horses originated in the Americas, but were later completely extinguished due to the last Ice Age period</strong> (roughly 13,000 to 11,000 years ago). <strong>Thus, the Spanish were still believed at that time to have “reintroduced” the horse to the Americas in the late 1400s.</strong>
+</p>
+
+<p>
+But on account of Collin’s work, <strong>the theory is being beckoned to change once again to say that Native Americans always had a sustained relationship with the horse.</strong> In the dissertation, <strong>Collin compiles a list of fossil and DNA evidence which dates after this supposed “extinction” period.</strong>
+</p>
+
+<p>
+“<strong>The wonderful thing is that we now have Western technology that can provide very accurate dates</strong>,” said Collin in a recent interview. “Many studies show that these horses were present after the very same Ice Age that supposedly wiped out them all out. So, the most compelling data to support the Native narrative is actually from a lot of the western scientific measurements that are coming out.”
+</p>
+</div>
+
+<p style="color:#4f8aff">
+So a conclusion that "horses hadn't arrived in north america yet." might be just a little outdated...
+</p>
+
+<p style="color:#4f8aff">
+There is also recent evidence linking DNA from Native American's in north america to Jewish populations.
+</p>
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<p>Big Chief Rabbi: Why Cherokees could be Jewish</p>
+https://www.thejc.com/news/world/big-chief-rabbi-why-cherokees-could-be-jewish-1.53565
+</div>
+
+<p style="color:#4f8aff">
+Scientific and archaeology findings are not set in stone, this is easy to see as the narrative is constantly changing as new research and discoveries continue to challenge prior preconceptions. To rely on such as if it was set in stone is to err.
+</p>
+
+<hr>
+
+<p style="color:#ff6c4f">
+Congrats on finding a creative way to get around the DNA and horse issue by finding a poorly article that contradicts most of the scientific community. If you are going to believe in the articles that you've posted, you also have to concede that Mormon scripture stating the earth is 6,000 years old is erroneous. You can't have it both ways.
+</p>
+
+<p style="color:#ff6c4f">
+After you come up with a way to reconcile those issues, you still have the major issue of Joseph Smith being a proven convicted fraud. If you defend him, you are defending a man that while in his late 30's married multiple teenage girls and openly lied about it. Are you willing to stoop to that level?
+</p>
+
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">If you are going to believe in the articles that you've posted, you also have to concede that Mormon scripture stating the earth is 6,000 years old is erroneous. You can't have it both ways.</p>
+</div>
+
+<p style="color:#4f8aff">
+First things first then,
+</p>
+
+<p style="color:#4f8aff">
+I believe that your understanding of the scripture is erroneous, I contend that there is nothing there to suggest that the earth is only 6,000 years old. But I'm not going to spell it out for you. First, how about you share with me your analysis of the scripture and how you come to the conclusion that the scripture says the entire existence of the earth is only 6,000 years old.
+</p>
+
+<p style="color:#4f8aff">
+Read carefully, because I expect you would want to explain away or at least touch on parts of the scripture that could lead one to believe that the entire existence of the earth isn't 6,000 years old such as is the case for myself.
+</p>
+
+<p style="color:#4f8aff">
+Doctrine and Covenants 77:6–7, 12
+</p>
+
+<p style="color:#4f8aff">
+Verse 6 is what you are looking for, verse 7 and 12 provide additional context.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>Bring ‘em Young wrote:</strong>
+    <p style="color:#ff6c4f">
+        So even if you believe the garbage that BYU funded Fairmormon publishes...
+    </p>
+</div>
+
+<p style="color:#4f8aff">
+I find it Ironic that in the same breath you share a publication from "The Salt Lake Messenger" a decidedly and unabashedly anti-mormon publication.
+</p>
+
+<p style="color:#4f8aff">
+Reading down into that same publication we find the following information regarding the authors:
+</p>
+
+<p style="color:#4f8aff">
+"During the past year we have been charged with being "unChristian," misquoting material and being unethical in our writings. We have completed our response to these charges and have published it in the new edition of The Lucifer-God Doctrine. All those who have been affected by these charges against us should take the time to read our side of the story before drawing any conclusions."
+</p>
+
+<p style="color:#4f8aff">
+So instead of addressing these charges within the publication, they presumably expect their audience to buy a new edition of their book so they can read their side of the story there...
+</p>
+
+<p style="color:#4f8aff">
+Further down:
+</p>
+
+<p style="color:#4f8aff">
+"At the present time we find ourselves running a little short (we have not had a pay check for six weeks). We are not desperate, however, because a man has given us some land. Although we could sell it, at the present time the market is so poor that we would have to let it go at a greatly reduced price. Our temporary shortage of funds probably stems from the fact that we have not raised the prices of most of our books over the past several years and that we have been putting out larger issues of the Salt Lake City Messenger and sending them to a greater number of people. We have been mailing out about 14,000 copies to those on our mailing list and giving out thousands more at a later time. Many people feel that this is a very valuable service, but less than 4% of those who receive the newsletter make donations. Fortunately, however, many others buy materials, and this helps us to meet our obligations. Some people have felt that if they do not send support, they should not remain on the mailing list. We do not feel this way at all. In fact, we desire that everyone who is blessed by the Messenger should remain on the list. It does not make any difference whether they can give contributions or buy our material. The most important thing is that the information is disseminated to those who need it."
+</p>
+
+<p style="color:#4f8aff">
+Clearly these people relied heavily on funds generated from their anti-mormon material for their sustenance... So finding the truth is clearly not their only incentive. Rather, tickling the ears of their decidedly anti-mormon audience helped them provide for themselves monetarily.
+</p>
+
+<p style="color:#4f8aff">
+The Authors: Jerald and Sandra Tanner
+</p>
+
+<p style="color:#4f8aff">
+Here are some opinions about them from professional, unbiased sources.
+</p>
+
+<p style="color:#4f8aff">
+Lawrence Foster, a non-Mormon historian of Mormon history, has offered a mixed assessment of the Tanners and their work. On the negative side, Foster has written that, until the Tanners "are prepared to abide by accepted standards of scholarly behavior and common courtesy, they can expect little sympathy from serious historians." He criticized them for "a holier-than-thou stance, refusing to be fair in applying the same debate standard of absolute rectitude that they demand of Mormonism to their own actions, writings, and beliefs.... The Tanners seem to be playing a skillful shell game in which the premises for judgment are conveniently shifted so that the conclusion is always the same—negative."
+</p>
+
+<p style="color:#4f8aff">
+On a more positive note, Foster says that some of the Tanners' "research and analysis... would do credit to any professional historian." He credits them with being "more than simply gadflies" and says that their work has helped stimulate serious Mormon scholarship.
+</p>
+
+<p style="color:#4f8aff">
+D. Michael Quinn, a historian and former member of the LDS Church, takes issue with the Tanners' work. He noted that "although the most conscientious and honest researcher can overlook pertinent sources of information, the repeated omissions of evidence by the Tanners suggest an intentional avoidance of sources that modify or refute their caustic interpretation of Mormon history."
+</p>
+
+<p style="color:#4f8aff">
+So you can state that "fairmormon" is garbage. But I have demonstrated "The Salt Lake Messenger" to be garbage or at best an unreliable and uncredible publication.
+</p>
+
+<p style="color:#4f8aff">
+I invite you to demonstrate the same with your claim of "garbage".
+</p>
+
+<hr>
 
 
