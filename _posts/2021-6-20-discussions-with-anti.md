@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Derogatory Voices
-subtitle: Logical Fallacies
+subtitle: Discussion
 cover-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [faith, religion, anti, discussion]
 ---
-
-
-Let me introduce you to someone I'll name <span style="color:#ff6c4f">Anti</span>, I am jumping into the middle of a conversation we had.  Anti is undecidely against the Church and is working to discredit the Church and shame it's members.
-
+<p>
+In late 2019 I participated in a message board that has a lot of discussion on collegiate running.  Brigham Young University has a very competitive, national relevant running program and as such the team is a topic of conversation.  Unsurprisingly, the team and university with their affiliation to the Church of Jesus Christ of Latter Day Saint attract a lot of derrogatory voices against anything related to the Church.
+</p>
+<p>
+Occasionally when someone was willing to engage in actual conversation, instead of only peddling mindless drivel against the Church, I would step in to defend my beliefs.
+</p>
+<p>Here are some excerpts from the conversations in one thread</p>
 <hr />
 #### Bring ‘em Young
 
@@ -529,5 +532,275 @@ I invite you to demonstrate the same with your claim of "garbage".
 </p>
 
 <hr>
+
+<p style="color:#ff6c4f">
+I can understand why you take issue with Jerald and Sandra Tanner. Their work uncovered multiple contradicting accounts of Joseph Smith’s “first vision.” The Tanners are the ones who discovered that Joseph Fielding Smith removed a page of Joseph Smith’s letterbook that contained the only version of the account in Joseph Smith’s own handwriting. The account in the letter book contradicted the version of the “first vision” that is still taught in the Mormon church today. Joseph Fielding Smith locked the account in a safe for decades, but because of the discoveries the Tanners made, Joseph Fielding was forced to tape it back in the letterbook.
+</p>
+
+<p style="color:#ff6c4f">
+Also, LDS historian D. Michael Quinn is a former Mormon. However, he is still a believing Mormon. He was excommunicated from the church for being gay. You should read some of his books. You’ll learn a lot about your Church’s history. Early “Mormonism and the Magic Workd View” will teach you more about Joseph Smith’s treasure hunting and the ways that he committed fraud. “The Mormon Hierarchy” will teach you about the Mormon Church’s violent history. It also highlights the ways the church is amassing wealth while contributing very little to humanitarian causes.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>In response to:</strong>
+    <p style="color:#4f8aff">
+    First things first then,
+    </p>
+    <p style="color:#4f8aff">
+I believe that your understanding of the scripture is erroneous, I contend that there is nothing there to suggest that the earth is only 6,000 years old. But I'm not going to spell it out for you. First, how about you share with me your analysis of the scripture and how you come to the conclusion that the scripture says the entire existence of the earth is only 6,000 years old.
+</p>
+
+<p style="color:#4f8aff">
+Read carefully, because I expect you would want to explain away or at least touch on parts of the scripture that could lead one to believe that the entire existence of the earth isn't 6,000 years old such as is the case for myself.
+</p>
+<p style="color:#4f8aff">
+Doctrine and Covenants 77:6–7, 12
+</p>
+
+<p style="color:#4f8aff">
+Verse 6 is what you are looking for, verse 7 and 12 provide additional context.
+    </p>
+</div>
+
+<p style="color:#ff6c4f">
+I thought that I had already proven that if you believe that the earth’s temporal existence will be longer than 7,000 years, your belief contradicts Mormon doctrine. I can rehash it all again though.
+</p>
+
+<p style="color:#ff6c4f">
+If you’d like my interpretation of D&C 77, I think Joseph Smith is just making stuff up and pretending like he has some gift of being able to interpret the book of Revelations.
+</p>
+
+<p style="color:#ff6c4f">
+However, your Mormon prophets seem to believe that D&C 77 is saying exactly what it is saying, the earth will undergo 7,000 years of temporal existence.
+</p>
+
+<p style="color:#ff6c4f">
+In referring to D&C 77, Joseph Fielding Smith said “here is a definite statement by revelation to us that the earth will go through 7,000 years of temporal existence.” He also said “we can hardly be justified in trying to harmonize the days of creation with extended periods of millions of years according to the reckoning of the so-called scientists.”
+</p>
+
+<p style="color:#ff6c4f">
+If your personal beliefs are different than Mormon doctrine, you would most likely have to be a geriatric white male to be able to change Mormon doctrine (it’s also much easier if you are directly related to Joseph Smith or Brigham Young. For some reason, God chooses a lot their family members to be apostles and prophets).
+</p>
+
+<p style="color:#ff6c4f">
+If you aren’t willing to conform your interpretation of Mormon scripture to actual Mormon doctrine, you could start your own religion. However, if you follow Joseph Smith’s example of marrying multiple teenage wives, claiming to be able to find buried treasure, creating your own bank, printing your own currency, anointing yourself “King on Earth”, and then start walking around town in a military uniform with a sword in your hand (yes, Joseph did all of these thing), you’ll likely end up in prison or committed to a psyche ward.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+I can understand why you take issue with Jerald and Sandra Tanner. Their work uncovered <strong>multiple contradicting accounts</strong> of Joseph Smith’s “first vision.” The Tanners are the ones who discovered that Joseph Fielding Smith removed a page of Joseph Smith’s letterbook that contained the only version of the account in Joseph Smith’s own handwriting. The account in <strong>the letter book contradicted</strong> the version of the “first vision” that is still taught in the Mormon church today. Joseph Fielding Smith locked the account in a safe for decades, but because of the discoveries the Tanners made, Joseph Fielding was forced to tape it back in the letterbook.
+</p>
+</div>
+
+<p style="color:#4f8aff">
+Thank you for the information, you've consistently demonstrated to me that your claims should be taken with a grain of salt. Another accusation, another forgone conclusion of logical fallacies stated as fact.
+</p>
+
+
+<p style="color:#4f8aff">
+I read the account in Joseph's handwriting years ago, and just re-read it now. There is nothing in there that could be accurately labelled a "contradiction", your biased assumptions blindly lead you to cries of contradiction. Differences and some ambiguity in the accounts yes, contradictions no.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+Also, LDS historian D. Michael Quinn is a former Mormon. However, he is still a believing Mormon. He was excommunicated from the church for being gay. You should read some of his books. You’ll learn a lot about your Church’s history. Early “Mormonism and the Magic Workd View” will teach you more about Joseph Smith’s treasure hunting and the ways that he committed fraud. “The Mormon Hierarchy” will teach you about the Mormon Church’s violent history. It also highlights the ways the church is amassing wealth while contributing very little to humanitarian causes.
+</p>
+</div>
+
+<p style="color:#4f8aff">
+Thanks again, this doesn't change the fact that a professional historian, someone who is openly critical of the faith as you have just demonstrated by a description of his books. Could see through and easily identify the Tanner's willingness to omit and ignore evidence in the name of furthering and bolstering their agenda. Maybe I will check out one of his books, might be worth my time if he's honest and fair in his approach. If he is, I know enough to know that things wont be as cut and dry as you portray.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+<strong>I thought that I had already proven that if you believe that the earth’s temporal existence will be longer than 7,000 years, your belief contradicts Mormon doctrine.</strong> ...
+</p>
+</div>
+<p style="color:#4f8aff">
+No, this is news to me. And sounds like a new claim altogether. What I remember you claiming is that Mormon scripture is in err, because it states that the earth is only 6,000 years old which is wildly incompatible with scientific evidence dating the earth back billions of years.
+</p>
+
+<p style="color:#4f8aff">
+Oh wait, I don't have to rely on my memory. You just rehashed it for me
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+If you are going to believe in the articles that you've posted, you also have to concede that Mormon scripture stating the earth is 6,000 years old is erroneous. You can't have it both ways.
+</p>
+</div>
+
+<p style="color:#4f8aff">
+Let's examine why you are wrong about Mormon scripture stating that the earth is 6,000 years old. Let use Joseph Fielding Smith's commentary which you referenced but left out some pertinent commentary.
+</p>
+
+<p style="color:#4f8aff">
+In referring to D&C 77 verse 6, Joseph Fielding Smith said “here is a definite statement by revelation to us that the earth will go through 7,000 years of temporal existence. <strong>Temporal, by all interpretations, means passing, temporary or mortal. This, then, has reference to the earth in its fallen state</strong>....”
+</p>
+
+<hr>
+
+<p style="color:#ff6c4f">
+Exactly! If Adam was the first of mankind on earth approximately 6,000 years ago, all of the archeological articles you’ve posted are wrong because they talk about animals and people who died way before 6,000 years ago! Mormons believe death did not occur on earth before Adam and Eve partook of the fruit. How can you reconcile Adam being the first man on earth and death not occurring until 6,000 years ago with all scientific evidence pointing to your church’s doctrine being wrong?
+</p>
+
+<p style="color:#ff6c4f">
+Your logic baffles me.
+</p>
+
+<hr>
+
+<p style="color:#4f8aff">
+I've already touched on that. Go read when our conversation first started. This topic was one of the first we discussed. Then let me know what part of that speculation and logic baffles you.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+    <strong>In response to:</strong>
+    <p style="color:#4f8aff">
+Thank you for the information, you've consistently demonstrated to me that your claims should be taken with a grain of salt. Another accusation, another forgone conclusion of logical fallacies stated as fact.
+</p>
+<p style="color:#4f8aff">
+I read the account in Joseph's handwriting years ago, and just re-read it now. There is nothing in there that could be accurately labelled a "contradiction", your biased assumptions blindly lead you to cries of contradiction. Differences and some ambiguity in the accounts yes, contradictions no.
+</p>
+</div>
+
+<p style="color:#ff6c4f">
+The account was troubling enough to a Joseph Fielding to cause him to hide it from the world for decades! It’s the only account in Joseph Smith’s hand retiring and it bothered Joseph Fielding so much that he cut it out of Joseph Smith’s journal for hell sakes.
+</p>
+
+<p style="color:#ff6c4f">
+If you can’t see any contradictions, I can point them out to you. Joseph Smith’s original version never states that he saw God, and never states that Joseph was commanded to “restore” Christ’s church. Instead, Joseph Smith describes the experience as a prayer he offered for forgiveness of his sins and him having a vision of Christ and receiving forgiveness of his sins. You can’t honestly claim that there aren’t contradictions in the two versions of the story.
+</p>
+
+<p style="color:#ff6c4f">
+Once again, if the version written in Joseph Smith’s handwriting wasn’t troubling to Mormons, why would Joseph Fielding hide it?
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+<strong>The account was troubling enough to a Joseph Fielding to cause him to hide it from the world for decades!</strong> It’s the only account in Joseph Smith’s hand retiring and it bothered Joseph Fielding so much that he cut it out of Joseph Smith’s journal for hell sakes.
+</p>
+</div>
+
+<p style="color:#4f8aff">
+That first sentence is the most correct thing you have stated, and for once I can't find fault with it. It certainly seems that Joseph Fielding Smith had some concerns with the account and didn't want it out in the public to be scrutinized.
+</p>
+
+<p style="color:#4f8aff">
+Reading the first hand account and noting the differences and ambiguities from the widely known account Joseph Smith published, I can see why the account would be troubling. Releasing the account would give anti mormons plenty of fodder and catch members off guard who didn't know of if it's existence.
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>Bring ‘em Young wrote:</strong>
+<p style="color:#ff6c4f">
+If you can’t see any contradictions, I can point them out to you. Joseph Smith’s original version never states that he saw God, and never states that Joseph was commanded to “restore” Christ’s church....
+</p>
+</div>
+
+<p style="color:#4f8aff">
+Joseph Smiths published account:<br />
+"I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!"
+</p>
+
+<p style="color:#4f8aff">
+Account from Joseph's journal:<br />
+"and the opened the heavens upon me and I saw the Lord and he spake unto me...."
+</p>
+
+<p style="color:#4f8aff">
+"I saw the Lord" and "I saw two personages" (one of which is the Lord) are not contradictory statements. Not mutually exclusive.
+</p>
+
+<p style="color:#4f8aff">
+And to your second "contradiction" you pointed out, I can't find anywhere in Joseph's published account of the "first vision" where he states he was commanded to "restore" Christ's church. Just that the Lord forbade him to join with any existing church and the account from his journal has similar sentiments. Not seeing anything you pinpointed as mutually exclusive or contradictory. I can point out some plausible reasons why there might be some differences though.
+</p>
+
+<p style="color:#4f8aff">
+The 1832 account was written in Joseph's journal. (not a public document)<br>
+The 1842 account was written, polished, and published to share the experience with the world.
+</p>
+
+<p style="color:#4f8aff">
+If I were recanting an important and significant experience in my life with several people over the years, different details would come out each time I told the experience depending my mindset and who the audience was, their questions, requests for clarification etc.. Depending on the interest and feel, I might go into great detail, or I might gloss over things to condense the experience. Over time, with experience, certain details would likely take on more significance than others. If I decided to take that important experience public I would want to present the experience in as complete and coherent a manner as possible. It certainly wouldn't match my personal journal entry and I don't think my family would like my journal published after my death so that the public could scrutinize and compare it with my public record.
+</p>
+
+<hr>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>nofacetimber wrote:</strong>
+<p style="color:#4f8aff">
+ It certainly seems that Joseph Fielding Smith had some concerns with the account and didn't want it out in the public to be scrutinized.
+</p>
+<p style="color:#4f8aff">
+Reading the first hand account and noting the differences and ambiguities from the widely known account Joseph Smith published, I can see why the account would be troubling. Releasing the account would give anti mormons plenty of fodder and catch members off guard who didn't know of if it's existence.
+</p>
+</div>
+
+<p style="color:#ff6c4f">
+If the account written in Joseph Smith's hand writing doesn't contradict other accounts, why would Joseph Fielding be afraid that "anti-Mormons" would say it did?
+</p>
+
+<p style="color:#ff6c4f">
+So you are okay that the institution that you rely on for all theological truth literally hides historical accounts that might damage its credibility?
+</p>
+
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>nofacetimber wrote:</strong>
+<p style="color:#4f8aff">
+I can't find anywhere in Joseph's published account of the "first vision" where he states he was commanded to "restore" Christ's church. Just that the Lord forbade him to join with any existing church
+</p>
+</div>
+
+<p style="color:#ff6c4f">
+Then why did Joseph Smith join the Methodist church after he had allegedly been told not to?
+</p>
+
+<div style="background-color: #e2e2e2;padding: 20px;border-radius: 4px;font-style: italic;">
+<strong>nofacetimber wrote:</strong>
+<p style="color:#4f8aff">
+The 1832 account was written in Joseph's journal. (not a public document)
+</p>
+<p style="color:#4f8aff">
+The 1842 account was written, polished, and published to share the experience with the world.
+</p>
+<p style="color:#4f8aff">
+If I were recanting an important and significant experience in my life with several people over the years, different details would come out each time I told the experience depending my mindset and who the audience was, their questions, requests for clarification etc.. Depending on the interest and feel, I might go into great detail, or I might gloss over things to condense the experience. Over time, with experience, certain details would likely take on more significance than others. If I decided to take that important experience public I would want to present the experience in as complete and coherent a manner as possible. It certainly wouldn't match my personal journal entry and I don't think my family would like my journal published after my death so that the public could scrutinize and compare it with my public record.
+</p>
+</div>
+
+<p style="color:#ff6c4f">
+By "polishing" the 1842 account you mean changing who he actually had a vision of, I'll agree with you. Joseph Smith did a lot of "polishing" of his stories throughout his life. Joseph wasn't talking to any audiences in his 1832 account, he was writing in his own personal journal. There is no reason for him to forget to mention that God visited him if that had really happened.
+</p>
+
+<p style="color:#ff6c4f">
+Additionally, Joseph Smith taught a trinitarian view of the Godhead for many years after he organized the Mormon Church. He didn't believe that God and Jesus were separate beings in 1832. He even taught trinitarian doctrine in the Book of Mormon. When the Book of Mormon was first published, it stated that Mary was the mother of God. The original version of the book was later changed to read that Mary was the mother of the son of God. There are still a lot of trinitarian teachings that were left in the Book of Mormon. It wasn't until many years after he had supposedly had the "first vision" that he started teaching that God and Jesus were distinct and separate beings. Once his doctrine changed, his version of his vision also changed.
+</p>
+
+<hr>
+
+<p>
+I can't remember if I ever responded again in this thread before it got deleted by forum moderators, I had a feeling that it would happen eventually and so periodically I would make a copy of the forum webpage.
+</p>
+
+
+
+
+
 
 
